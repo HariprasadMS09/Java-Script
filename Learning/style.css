@@ -1,0 +1,9 @@
+#btn1{
+    background-color: aliceblue;
+    color:black;
+}
+
+#btn1:hover{
+    opacity: 0.25;
+    background-color: cadetblue;
+}
